@@ -7,6 +7,7 @@ description: >-
 # 🌱 Ean13BarCode
 
 > 📣 Proje amaçlı yapılmıştır. 
+> ✨ chech sum digit '5' değeri default olarak ayarlanmıştır.
 > ⏬ Güncelleme yapılmayacaktır.
 
 ## 🔰 Ne İşe Yarar
@@ -15,6 +16,8 @@ description: >-
 ⭐ Ean13 kütüphanesi kullanılmıştır.
 
 ## 👁‍🗨 Uygulamaya Bakış
+<img src="https://www.codeproject.com/KB/graphics/ean_13_barcodes/EAN-13-Numeric-Sections.gif" align="right" width="20%">
+
 <img src="https://user-images.githubusercontent.com/81330668/165441527-b975b2f2-c422-42ff-8fcd-b2430ba03064.png" align="center" width="50%">
 
 ## <h3 align="left"> 📫 Connect with me:</h3>
