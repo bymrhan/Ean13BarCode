@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\barkodolustur\barkodolustur\obj\Debug\barkodolustur.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\barkodolustur\barkodolustur\obj\Debug\barkodolustur.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\barkodolustur\barkodolustur\obj\Debug\barkodolustur.Form1.resources
+C:\Users\Administrator\source\repos\barkodolustur\barkodolustur\obj\Debug\barkodolustur.Properties.Resources.resources
+C:\Users\Administrator\source\repos\barkodolustur\barkodolustur\obj\Debug\barkodolustur.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\barkodolustur\barkodolustur\obj\Debug\barkodolustur.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\barkodolustur\barkodolustur\bin\Debug\barkodolustur.exe.config
+C:\Users\Administrator\source\repos\barkodolustur\barkodolustur\bin\Debug\barkodolustur.exe
+C:\Users\Administrator\source\repos\barkodolustur\barkodolustur\bin\Debug\barkodolustur.pdb
+C:\Users\Administrator\source\repos\barkodolustur\barkodolustur\obj\Debug\barkodolustur.exe
+C:\Users\Administrator\source\repos\barkodolustur\barkodolustur\obj\Debug\barkodolustur.pdb
